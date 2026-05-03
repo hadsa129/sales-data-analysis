@@ -336,32 +336,7 @@ data-warehouse-project/
 ```
 ---
 
-<<<<<<< HEAD
-![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
-=======
----
 
-## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About the Developer
 
-Hi there! I'm **Hadil Sahraoui**, a passionate data professional with expertise in data engineering, business analytics, and database architecture. I developed this comprehensive sales data analysis project to demonstrate end-to-end data warehouse implementation and business intelligence capabilities.
-
-### Connect With Me
-
-Feel free to connect with me on the following platforms:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadsa129)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadil-sahraoui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadil.sahraoui@example.com)
-
-### Project Highlights
-
-This project represents my commitment to:
-- **Building Scalable Solutions**: Modern data architecture using industry best practices
-- **Delivering Business Value**: Actionable insights that drive strategic decisions
-- **Continuous Learning**: Staying current with data engineering and analytics trends
-- **Quality craftsmanship**: Clean, well-documented, and maintainable code
->>>>>>> f5a699e (Update project framing as professional data warehouse implementation)
